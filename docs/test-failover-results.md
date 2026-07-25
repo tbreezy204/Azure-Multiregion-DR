@@ -4,7 +4,7 @@
 
 - **Date**: 2026-07-19
 - **Recovery point used**: Latest processed
-- **Source VM**: vm-${PROJECT}-web01 (West Europe)
+- **Source VM**: vm-azure-multiregion-dr-web01 (West Europe)
 - **Target region**: North Europe
 
 ## Timeline
